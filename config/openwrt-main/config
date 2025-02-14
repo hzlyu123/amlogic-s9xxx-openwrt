@@ -5020,7 +5020,6 @@ CONFIG_PACKAGE_luci-mod-system=y
 # nas-packages-luci
 CONFIG_PACKAGE_luci-app-ddnsto=y
 CONFIG_PACKAGE_luci-app-diskman=y
-CONFIG_PACKAGE_luci-app-istorex=y
 CONFIG_PACKAGE_luci-app-linkease=y
 CONFIG_PACKAGE_luci-app-quickstart=y
 CONFIG_PACKAGE_luci-app-unishare=y
